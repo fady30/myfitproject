@@ -1,2 +1,0 @@
-# ignore at.txt files
-* txt
